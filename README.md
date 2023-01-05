@@ -1,5 +1,7 @@
 # The Simon Game
 
+![Simon Game](./images/game-start.png)
+
 ## Description
 This project tries to recreate the mythical Simon game.
 
